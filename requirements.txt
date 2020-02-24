@@ -7,7 +7,7 @@ azure-nspkg==2.0.0
 azure-storage==0.36.0
 backcall==0.1.0
 beautifulsoup4==4.7.1
-bleach==3.1.0
+bleach==3.1.1
 blis==0.2.4
 boto==2.48.0
 boto3==1.6.23
