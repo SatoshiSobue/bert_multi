@@ -59,7 +59,7 @@ langdetect==1.0.7
 MarkupSafe==1.1.1
 matplotlib==3.1.0
 mecab-python3==0.7
-mistune==0.8.4
+mistune==2.0.3
 mojimoji==0.0.9
 murmurhash==1.0.2
 mysql-connector-python-rf==2.0.4
